@@ -1,0 +1,2 @@
+# wowinterface
+WoW addon config
